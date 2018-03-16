@@ -1,0 +1,62 @@
+c:\users\junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\bin\Debug\Sistema de ventas.exe.config
+c:\users\junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\bin\Debug\Sistema de ventas.exe
+c:\users\junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\bin\Debug\Sistema de ventas.pdb
+c:\users\junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\bin\Debug\MySql.Data.dll
+c:\users\junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\obj\Debug\Sistema de ventas.csprojResolveAssemblyReference.cache
+c:\users\junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.Login.resources
+c:\users\junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.Properties.Resources.resources
+c:\users\junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\obj\Debug\Sistema de ventas.csproj.GenerateResource.Cache
+c:\users\junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\obj\Debug\Sistema de ventas.exe
+c:\users\junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\obj\Debug\Sistema de ventas.pdb
+c:\users\junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.Usuario.resources
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.AgregarCliente.resources
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.ClientesRegistrado.resources
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.Ventas.resources
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.addStock.resources
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.MenuPrincipal.resources
+C:\Users\Junii\Documents\Visual Studio 2015\Projects\Sistema de ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.agregarproducto.resources
+C:\Users\Junii\Documents\Visual Studio 2015\Projects\Sistema de ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.clienteVentas.resources
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.EditarCliente.resources
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.reporteU.resources
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\obj\Debug\RdlCompile.cache
+C:\Users\Junii\documents\visual studio 2015\Projects\Sistema de ventas\Sistema de ventas\obj\Debug\RdlCompile.compiled
+F:\Guardar Aqui\ventas\Sistema de ventas\bin\Debug\Sistema de ventas.exe.config
+F:\Guardar Aqui\ventas\Sistema de ventas\bin\Debug\Sistema de ventas.exe
+F:\Guardar Aqui\ventas\Sistema de ventas\bin\Debug\Sistema de ventas.pdb
+F:\Guardar Aqui\ventas\Sistema de ventas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Guardar Aqui\ventas\Sistema de ventas\obj\Debug\Sistema de ventas.csprojResolveAssemblyReference.cache
+F:\Guardar Aqui\ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.addStock.resources
+F:\Guardar Aqui\ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.AgregarCliente.resources
+F:\Guardar Aqui\ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.agregarproducto.resources
+F:\Guardar Aqui\ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.ClientesRegistrado.resources
+F:\Guardar Aqui\ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.clienteVentas.resources
+F:\Guardar Aqui\ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.EditarCliente.resources
+F:\Guardar Aqui\ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.Login.resources
+F:\Guardar Aqui\ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.MenuPrincipal.resources
+F:\Guardar Aqui\ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.Properties.Resources.resources
+F:\Guardar Aqui\ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.reporteU.resources
+F:\Guardar Aqui\ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.Usuario.resources
+F:\Guardar Aqui\ventas\Sistema de ventas\obj\Debug\Sistema_de_ventas.Ventas.resources
+F:\Guardar Aqui\ventas\Sistema de ventas\obj\Debug\Sistema de ventas.csproj.GenerateResource.Cache
+F:\Guardar Aqui\ventas\Sistema de ventas\obj\Debug\Sistema de ventas.csproj.CoreCompileInputs.cache
+F:\Guardar Aqui\ventas\Sistema de ventas\obj\Debug\Sistema de ventas.exe
+F:\Guardar Aqui\ventas\Sistema de ventas\obj\Debug\Sistema de ventas.pdb
+E:\Guardar Aqui\ventas\Sistema de ventas\bin\Debug\Sistema de ventas.exe.config
+E:\Guardar Aqui\ventas\Sistema de ventas\obj\Debug\Sistema de ventas.exe
+E:\Guardar Aqui\ventas\Sistema de ventas\obj\Debug\Sistema de ventas.pdb
+G:\Guardar Aqui\ventas\Sistema de ventas\bin\Debug\Sistema de ventas.exe.config
+G:\Guardar Aqui\ventas\Sistema de ventas\obj\Debug\Sistema de ventas.exe
+G:\Guardar Aqui\ventas\Sistema de ventas\obj\Debug\Sistema de ventas.pdb
